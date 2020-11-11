@@ -6,7 +6,7 @@
 
 ### Requirements
 
-Kernel fork at `v5.9.0-maxgio` version.
+Kernel fork at `v5.9-maxgio` version.
 
 ### Build
 
