@@ -1,0 +1,9 @@
+.*.sw?
+.sw?
+*~
+*.orig
+*.pyc
+cscope.files
+cscope.out
+/tags
+tools/extra
